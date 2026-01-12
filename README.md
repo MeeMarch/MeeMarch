@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Apsorn
 
-<!--
-**MeeMarch/MeeMarch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Graduate from **Thai-Nichi Institute of Technology** with hands-on experience from university projects, internship, and international work exposure.
 
-Here are some ideas to get you started:
+## 💻 What I’ve Worked On
+- 🌐 Web Development – Laravel & React
+- 📱 Mobile Application Development (University Projects)
+- 🧪 QA Internship – Manual testing, test cases, QA process
+- ⚙️ Frontend Development – React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Languages: JavaScript, PHP
+- Frontend: React, HTML, CSS
+- Backend: Laravel
+- Testing / QA: Manual Testing, Test Case Design, API Testing (Postman)
+- Tools: Git, GitHub
+
+## 🌍 Experience
+- 🎢 International Work Experience – Disney (Overseas)
+- University team projects & internship collaboration
+
+## 🌏 Languages
+- Thai (Native)
+- English (Working proficiency)
+- Japanese (Basic)
+
+✨ Always learning, building, and improving.
